@@ -48,4 +48,3 @@ def main_one_1b():
 
 
 main_one_1b()
-# print(cleansed_lines)
